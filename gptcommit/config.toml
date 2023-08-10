@@ -11,7 +11,7 @@ file_ignore = [
 api_base = "https://api.openai.com/v1"
 api_key = "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"
 model = "gpt-3.5-turbo-16k"
-retries = 2
+retries = 3
 proxy = ""
 
 [prompt]
