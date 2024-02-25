@@ -3,3 +3,7 @@ spotify-tui/client.yml
 iterm2/*
 gptcommit/*
 .DS_Store
+gitui/*
+github-copilot/*
+github-copilot/versions.json
+configstore/*
