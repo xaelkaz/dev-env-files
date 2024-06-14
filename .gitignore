@@ -7,3 +7,4 @@ gitui/*
 github-copilot/*
 github-copilot/versions.json
 configstore/*
+zed/*
